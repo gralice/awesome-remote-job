@@ -325,6 +325,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
   1. [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations.
   1. [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
+  1. [Conversion Team](https://www.conversionteam.com/about-us/#careers) - Conversion Optimization Agency.
   1. [Coursera](https://about.coursera.org/careers/jobs/) - online courses.
   1. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
   1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
